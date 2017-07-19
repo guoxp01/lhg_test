@@ -28,8 +28,8 @@ public class Test {
 //		System.out.println(testparup(wsj.ParallelSpeedup.class));
 		
 //		System.out.println(testsub(yd.Substitute.class));
-		System.out.println(testparup(yd.ParallelSpeedup.class));
-		
+//		System.out.println(testparup(yd.ParallelSpeedup.class));
+
 //		System.out.println(testsub(yjc.Substiute.class));
 		
 	}
