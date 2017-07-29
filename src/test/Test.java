@@ -5,9 +5,28 @@ import java.lang.reflect.Method;
 
 public class Test {
 	public static void main(String[] args) throws Exception {
+		
+		
+		
+		http://www.oschina.net/question/253614_79006
+		https://www.zhihu.com/question/42024389/answer/93528601
+		System.out.println(5.0942*1000);
+		System.out.println(5.0943*1000);
+		System.out.println(5.0944*1000);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 //		System.out.println(testsub(gxp.Substitute.class));
 //		System.out.println(testparup(gxp.ParallelSpeedup.class));
-		
+
 //		System.out.println(testsub(htf.Substitute.class));
 //		System.out.println(testparup(htf.ParallelSpeedup.class));	\
 		
