@@ -20,5 +20,7 @@ public class WordForm {
 		}
 		return rel;
 	}
-	
+	public static void main(String[] args) {
+		System.out.println(new WordForm().getSequence("yC"));
+	}
 }
